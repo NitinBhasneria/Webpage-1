@@ -460,7 +460,7 @@ border: 3px solid gainsboro;}
   #stage a:nth-of-type(1) {
     animation-name: fader;
     animation-delay: 2s;
-    animation-duration: 100s;
+    animation-duration: 1s;
     z-index: 20;
   }
   #stage a:nth-of-type(2) {

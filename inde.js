@@ -50,3 +50,11 @@ function bigImg(x){
 function normalImg(x){
 	x.style.border='0px';
 }
+var nav=document.querySelector('.btn');
+ var nav1=document.querySelector('.btn1')
+function mynavs(){
+	if(nav.style.display=='')
+	{nav1.classList.add('navbtn1');
+    nav.classList.add('navbtn');
+}
+}
